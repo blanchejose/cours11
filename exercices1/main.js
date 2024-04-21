@@ -3,4 +3,4 @@
 $( "p" )
   .on( "mouseup", function() {
     $( this ).append( "<span style='color:#f00;'>Mouse up.</span>" );
-  } );
+  } ); 
