@@ -1,0 +1,13 @@
+.message {
+    width: 200px;
+    height: 100px;
+    background-color: hsl(118, 70%, 53%);
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+}
+
+.message:hover {
+    background-color: #e74c3c;
+}
