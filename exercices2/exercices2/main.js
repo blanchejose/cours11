@@ -1,4 +1,4 @@
-const Button = document.getElementById('Button');
+const toggleButton = document.getElementById('toggleButton');
 const elementToToggle = document.getElementById('elementToToggle');
 
 toggleButton.addEventListener('click', function() {
