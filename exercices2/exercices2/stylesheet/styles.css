@@ -6,5 +6,5 @@
     color: white;
     text-align: center;
     line-height: 100px;
-    display: block; /* L'élément est masqué par défaut */
+    display: none; /* L'élément est masqué par défaut */
 }
